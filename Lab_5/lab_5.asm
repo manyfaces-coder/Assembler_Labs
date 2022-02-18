@@ -60,7 +60,7 @@ BSIZE equ 4
 	buf db ?
 	buffer_key_2 db ?
 	buf_1 db ?
-	;cRead dd ? ?????
+
 .code
 
 start:
